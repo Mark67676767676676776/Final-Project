@@ -1,0 +1,111 @@
+body{   background-color: rgb(224,201,166) ;}
+ .container{
+        border: 4px solid black;
+        color: black;
+        height: 50px;
+        padding: 20px;
+        width: 97%;
+        margin-top: 40px;
+        margin-bottom: 40px;
+        text-align: center;
+        background-color: rgb(159,140,118);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        h1{
+            color: black;
+            text-align: center;
+            font-family: cursive;
+            font-size: 50px;
+            font-weight: bold;   
+        }
+ 
+ .image {
+max-width: 600px;
+  height: auto;
+  border: 4px solid black;
+  float: left;
+  margin-left: 50px;
+}
+.image2{
+max-width: 700px;
+  height: 335px;
+  border: 4px solid black;
+  float: left;
+  margin-left: 50px;}
+
+p{
+    font-family: cursive;
+    font-size: 20px;
+    padding: 10px;
+   
+}
+p2{
+    font-family: cursive;
+    font-size: 100px;
+    font-weight: bold;
+   
+}
+.container2 div{
+    border: 4px solid black;
+    background-color: rgb(159,140,118);
+    height: 1000px;
+   padding: 10px;
+    width: 700px;
+    text-align: center;
+    display:flex;
+       margin: 100px auto;
+       flex-direction: column;
+}
+.container3 div{
+    border: 4px solid black;
+    background-color: rgb(159,140,118);
+    height: 700px;
+   padding: 10px;
+    width: 580px;
+    text-align: center;
+    display:flex;
+         margin: -650px 50px;
+         flex-direction: column;
+    
+}
+.container4 div{
+     border: 4px solid black;
+    background-color: rgb(159,140,118);
+    height: 200px;
+   padding: 10px;
+    width: 600px;
+    text-align: center;
+    display:flex;
+         margin: 490px 775px;
+         flex-direction: column;
+         justify-content: center;
+}
+   a:link{
+            color: black;
+font-family: cursive;
+font-size: 20px;
+
+
+        }
+        a:visited{
+            color: black;
+        }
+        a:hover{
+            color: rgb(199, 71, 161);}
+hr{
+    border: 2px solid black;
+
+}
+           .container5 div{
+             border: 4px solid black;
+    background-color: rgb(159,140,118);
+    height: 250px;
+   padding: 10px;
+    width: 580px;
+    text-align: center;
+    display:flex;
+         margin: -650px 50px;
+         flex-direction: column;
+    ;}
